@@ -1,3 +1,5 @@
-.stackery
+# local build directories
 .aws-sam
-.stackery-template.yaml
+.stackery
+
+# dependencies
